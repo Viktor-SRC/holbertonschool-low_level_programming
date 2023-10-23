@@ -1,1 +1,1 @@
-# This repository is about C project of Holberton School Sprint 1
+# This repository is about C projects from Holberton School sprint 1
