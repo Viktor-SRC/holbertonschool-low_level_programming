@@ -1,3 +1,9 @@
+/**
+ * main 2. I sometimes suffer from insomnia.
+ * Description function to prints the alphabet in lowercase,
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
 #include <stdio.h>
 int main(void)
 {
