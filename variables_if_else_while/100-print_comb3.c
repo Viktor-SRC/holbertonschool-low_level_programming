@@ -1,3 +1,8 @@
+/**
+ * main - 10. Patience, persistence and perspiration.
+ * Description, prints all possible combinations of single-digit numbers
+ * Return: Alwayz 0 (Success)
+ */
 #include <stdio.h>
 
 int main(void)
@@ -10,9 +15,12 @@ int main(void)
         {
             putchar('0' + i);
             putchar('0' + j);
+	    if (j < 9)
+	    {
             putchar(',');
             putchar(' ');
         }
+    }
     }
 
     putchar('\n');
