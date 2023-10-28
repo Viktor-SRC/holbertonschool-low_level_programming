@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int i, j, k;
+	int i, j, k, l;
 
 	for (i = 0; i <= 9; i++)
 	{
@@ -15,7 +15,7 @@ int main(void)
 		{
 			for (k = 0; k <= 9; k++)
 			{
-				for (int l = k + 1; l <= 9; l++)
+				for (l = k + 1; l <= 9; l++)
 				{
 					putchar('0' + i);
 					putchar('0' + j);
