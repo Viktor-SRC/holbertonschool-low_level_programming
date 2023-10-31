@@ -12,7 +12,7 @@ void print_alphabet(void)
 	char abc[] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 0; 1 < 26; i++)
+	for (i = 0; i < 26; i++)
 	{
 		_putchar(abc[i]);
 	}
