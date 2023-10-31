@@ -1,5 +1,5 @@
 /**
- * print_aplhabet - 1 I sometimes suffer from insomnia.
+ * print_alphabet - 1 I sometimes suffer from insomnia.
  * Description: program to print the alphabet
  * in lowercase
  * Return: Always 0 (Success)
