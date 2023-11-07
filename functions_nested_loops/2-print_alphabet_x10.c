@@ -1,6 +1,6 @@
 /**
  * print_alphabet_x10 - 2 10 x alphabet.
- * Description: program to print 10 times the alphabet 
+ * Description: program to print 10 times the alphabet
  * in lowercase
  * Return: Always 0 (Success)
  */
