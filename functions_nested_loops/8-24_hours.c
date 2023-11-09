@@ -1,6 +1,6 @@
 /**
  * jack_bauer - 8 Jack Bauer.
- * Description: function to print every minute of the day of 
+ * Description: function to print every minute of the day of
  * Jack Bauer
  * Return: void
  */
