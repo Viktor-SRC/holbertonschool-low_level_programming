@@ -1,7 +1,8 @@
 /**
  * _abs - 6 abs.
  * Description: function to computes tha absolute value of an integer.
- * Return: always 0 
+ * @n: the integer to check
+ * Return: always 0
  */
 
 #include "main.h"
