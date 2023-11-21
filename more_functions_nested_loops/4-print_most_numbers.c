@@ -1,5 +1,5 @@
 /**
- *print_most_nnumbers - function to print numbers from 0 to 9
+ *print_most_numbers - function to print numbers from 0 to 9
  *except 2 and 4
  *Description: print from 0 to 9 except 2 and 4
  *return: void
