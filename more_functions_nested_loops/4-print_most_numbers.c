@@ -1,6 +1,7 @@
 /**
- *print_numbers - function to print numbers from 0 to 9
- *Description: print from 0 to 9
+ *print_most_nnumbers - function to print numbers from 0 to 9
+ *except 2 and 4
+ *Description: print from 0 to 9 except 2 and 4
  *return: void
  */
 
@@ -8,12 +9,12 @@
 
 void print_most_numbers(void)
 {
-        char numbers[] = "01356789";
-        int i;
+	char numbers[] = "01356789";
+	int i;
 
-        for (i = 0; i <= 7; i++)
-        {
-                _putchar(numbers[i]);
-        }
-                _putchar('\n');
+	for (i = 0; i <= 7; i++)
+	{
+		_putchar(numbers[i]);
+	}
+	_putchar('\n');
 }
