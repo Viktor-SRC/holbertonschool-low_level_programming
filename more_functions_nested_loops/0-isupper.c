@@ -1,8 +1,8 @@
 /**
- * _isupper - function 
+ * _isupper - function
  * Description: check if character is uppercase or not
  * @c: is a character to be evaluated
- * Return 1 if uppercase else 0 otherwise
+ * Return: 1 if uppercase else 0 otherwise
  */
 
 #include "main.h"
@@ -12,5 +12,5 @@ int _isupper(int c)
 	if (c >= 'A' && c <= 'Z')
 		return (1);
 	else
-		return(0);
+		return (0);
 }
