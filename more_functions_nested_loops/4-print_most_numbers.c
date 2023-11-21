@@ -6,7 +6,7 @@
 
 #include "main.h"
 
-void print_numbers(void)
+void more_numbers(void)
 {
         char numbers[] = "01356789";
         int i;
