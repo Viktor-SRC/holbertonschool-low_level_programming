@@ -1,5 +1,5 @@
 /**
- * print_square - draws a square on the terminal 
+ * print_square - draws a square on the terminal
  * @size: the size of the square
  *
  * Return: void
