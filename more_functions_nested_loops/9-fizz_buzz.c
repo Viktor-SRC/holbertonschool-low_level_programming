@@ -1,5 +1,4 @@
 /**
- * Fizz-Buzz
  * main - function to print numbers
  * Description: Fizz-Buzz test
  *
@@ -32,7 +31,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%d", i);
+			printf("%d ", i);
 		}
 	}
 	return (0);
