@@ -1,6 +1,7 @@
 /**
  * print_number - print number
  * Description - print number
+ * @n: the number to print
  * Return: always 0
  */
 
@@ -9,6 +10,7 @@
 void print_number(int n)
 {
 	unsigned int number;
+
 	if (n < 0)
 	{
 		_putchar('-');
