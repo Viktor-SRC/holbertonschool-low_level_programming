@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-typedef long int ll;
+typedef long int (ll);
 {
 
 ll maxPrimeFactors(ll n) 
